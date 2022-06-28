@@ -1,0 +1,1 @@
+Rancang Bangun Sistem Informasi Pengajuan Permohonan Ruang Rapat Untuk Direktorat Jenderal Pembinaan Sekolah Menengah Pertama oleh Kelompok 3 - Universitas Bina Sarana Informatika Ciputat untuk Tugas Akhir Semester Mata Kuliah Web Programming II dengan menggunakan CodeIgniter 3.1 dan Template (Bootstrap 4).
